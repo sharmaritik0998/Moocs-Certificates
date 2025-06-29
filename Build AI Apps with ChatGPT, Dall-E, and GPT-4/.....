@@ -1,0 +1,41 @@
+🧠 Build AI Apps with ChatGPT, DALL·E, and GPT-4 – MOOC Summary
+This repository contains project code, notes, and resources from the “Build AI Apps with ChatGPT, DALL·E, and GPT-4” course. The course focuses on using OpenAI’s generative models to create intelligent, interactive applications with real-world impact.
+
+📘 Course Overview:
+This hands-on course explores how to build AI-powered applications using:
+
+ChatGPT (GPT-4) for natural language understanding and generation
+
+DALL·E for AI-driven image generation from text prompts
+
+Practical integration of OpenAI APIs with Python or JavaScript
+
+Application logic and UI/UX for AI products
+
+Prompt engineering and user interaction flows
+
+🛠️ Skills & Technologies:
+Generative AI (ChatGPT & DALL·E)
+
+API Integration (OpenAI Platform)
+
+AI App Development (Frontend & Backend)
+
+Prompt Engineering
+
+Natural Language & Visual Interfaces
+
+📁 Repository Includes:
+💻 Code samples for building full-stack AI apps
+
+🔐 OpenAI API integration templates (Python/JS)
+
+🧠 Prompt examples for ChatGPT and DALL·E
+
+🎨 Use cases for image generation, chatbots, AI tools
+
+✅ Mini-projects and guided application builds
+
+🎯 Objective:
+To gain hands-on experience in building AI-driven web and mobile applications using state-of-the-art models like GPT-4 and DALL·E, from concept to deployment.
+
