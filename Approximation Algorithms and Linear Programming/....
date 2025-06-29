@@ -1,0 +1,45 @@
+📐 Approximation Algorithms and Linear Programming – MOOC Summary
+This repository contains my notes, problem sets, and code implementations from the “Approximation Algorithms and Linear Programming” course. The course dives into optimization problems that are hard to solve exactly and explores algorithmic techniques to find near-optimal solutions using LP formulations and approximation strategies.
+
+📘 Course Overview:
+The course covers both theoretical and practical aspects of optimization, including:
+
+Linear Programming fundamentals and LP duality
+
+Integer Programming and Relaxations
+
+Greedy and Primal-Dual Approximation Techniques
+
+Rounding methods (Randomized & Deterministic)
+
+Hardness of Approximation
+
+Real-world applications: scheduling, facility location, vertex cover, set cover, etc.
+
+🛠️ Skills & Topics Covered:
+Approximation Algorithms
+
+Linear and Integer Programming
+
+Optimization and Computational Complexity
+
+Theoretical Computer Science
+
+Mathematical Programming
+
+Greedy, Rounding, and Primal-Dual Methods
+
+📁 Repository Includes:
+📄 Lecture notes and algorithm breakdowns
+
+📊 LP models and mathematical formulations
+
+💻 Code implementations of approximation strategies
+
+🧪 Solved exercises and proofs
+
+🧠 Visual explanations and intuition behind hardness gaps
+
+🎯 Objective:
+To develop a strong theoretical foundation in approximation and linear programming techniques, and apply them to tackle NP-hard problems in a structured, algorithmic manner.
+
