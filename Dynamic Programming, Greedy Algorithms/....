@@ -1,0 +1,51 @@
+⚙️ Dynamic Programming & Greedy Algorithms – MOOC Summary
+This repository contains my notes, solutions, and implementations from the "Dynamic Programming and Greedy Algorithms" course. This MOOC dives deep into optimization strategies and algorithmic techniques that form the backbone of modern problem solving in programming and computational mathematics.
+
+📘 Course Overview:
+The course covers a wide range of foundational and advanced topics, including:
+
+Principles of Dynamic Programming
+
+Bottom-up and Top-down approaches
+
+Memoization and State Optimization
+
+Classic DP Problems (Knapsack, LIS, Matrix Chain, etc.)
+
+Greedy Strategy Design and Proofs
+
+Greedy vs DP decision-making
+
+Real-world applications and coding challenges
+
+🛠️ Skills & Knowledge Areas:
+Computer Programming
+
+Algorithms
+
+Applied Mathematics
+
+Theoretical Computer Science
+
+Mathematics & Calculus
+
+Mathematical Theory & Analysis
+
+Agile Software Development
+
+Problem Solving and Optimization Techniques
+
+📁 Repository Includes:
+📄 Topic-wise concept notes and visualizations
+
+💻 Python/C++ code implementations for all major problems
+
+✅ Solved assignments with step-by-step explanations
+
+🧪 Practice problem sets and test cases
+
+📜 Summary of key patterns, transitions, and optimization tricks
+
+🎯 Objective:
+This repository is a practical and theoretical guide to mastering Dynamic Programming and Greedy Algorithms, aimed at improving coding efficiency, mathematical reasoning, and algorithmic intuition.
+
