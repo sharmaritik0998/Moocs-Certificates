@@ -1,0 +1,43 @@
+🧠 Generative AI with Large Language Models – MOOC Summary
+This repository contains key notes, code, and learning artifacts from the “Generative AI with Large Language Models” course. The course provides a solid foundation in building, fine-tuning, and applying large language models (LLMs) for various generative AI tasks using Python and modern ML tools.
+
+📘 Course Overview:
+This course explores how large language models like GPT, BERT, and their variants are used to:
+
+Understand and generate human-like text
+
+Fine-tune pre-trained models for custom NLP tasks
+
+Perform text summarization, classification, Q&A, and more
+
+Build applications using Python and transformer libraries
+
+Dive into prompt engineering and model evaluation techniques
+
+🛠️ Skills & Technologies:
+Python Programming
+
+Machine Learning
+
+Natural Language Processing (NLP)
+
+Generative AI Techniques
+
+Transformer Architectures (e.g., GPT, BERT)
+
+Prompt Engineering & Evaluation
+
+📁 Repository Includes:
+📝 Concept notes and visual explanations
+
+💻 Python notebooks for hands-on labs
+
+✅ Mini-projects and application demos
+
+🧠 Prompt engineering examples
+
+🔍 Model evaluation metrics and techniques
+
+🎯 Objective:
+To understand how generative AI systems work, and gain hands-on experience with LLMs using Python—enabling the creation of intelligent text-based applications and custom NLP solutions.
+
